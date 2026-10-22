@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:text="Transações"
+        android:text="Recent Transactions"
         android:textColor="#37474F"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="@+id/include"
