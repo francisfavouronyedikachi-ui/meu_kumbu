@@ -68,7 +68,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="monospace"
-            android:text="Manuel Ernesto"
+            android:text="MEU KUBU USER"
             android:textColor="@android:color/white"
             android:textSize="24sp"
             android:textStyle="bold"
