@@ -105,7 +105,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="monospace"
             android:gravity="center_horizontal"
-            android:text="****  ****  ****  1234"
+            android:text="••••  ••••  ••••  4829"
             android:textAlignment="center"
             android:textColor="@android:color/white"
             android:textSize="24sp"
