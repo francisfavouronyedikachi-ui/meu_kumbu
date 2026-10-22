@@ -92,7 +92,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:fontFamily="monospace"
-            android:text="12/20"
+            android:text="12/30"
             android:textColor="@android:color/white"
             android:textSize="24sp"
             android:textStyle="bold"
