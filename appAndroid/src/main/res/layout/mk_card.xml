@@ -34,7 +34,7 @@
             android:layout_marginLeft="16dp"
             android:layout_marginTop="16dp"
             android:fontFamily="monospace"
-            android:text="Saldo"
+            android:text="BALANCE"
             android:textColor="@android:color/white"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
             android:fontFamily="monospace"
-            android:text="Proprietário"
+            android:text="Validade:"
             android:textColor="@android:color/white"
             app:layout_constraintBottom_toTopOf="@+id/textView4"
             app:layout_constraintStart_toStartOf="@+id/textView7" />
@@ -81,7 +81,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
             android:fontFamily="monospace"
-            android:text="Validade:"
+            android:text="EXPIRES"
             android:textColor="@android:color/white"
             app:layout_constraintBottom_toTopOf="@+id/textView6"
             app:layout_constraintEnd_toEndOf="@+id/textView7" />
